@@ -8,7 +8,7 @@ Source code corresponding to the paper "Z. Yang, Y. Pang, Haoyang Zhang, Hongbo 
 
 **Weibo:** Because official datasets for studying spammers on the Weibo platform are scarce and user information is non-recourseable. Therefore, we constructed the fully open-source Weibo dataset. A detailed description of the *collection process* and *user label definitions* for this dataset can be found in the file **Supplement_for_Reproducibility.md**.
 
-In particular, we provide processing files between dataset versions: **preprocess.py**, **config.py**, and **text_clear.py**.
+In particular, we provide processing files between dataset versions: **datasets/preprocess.py**, **datasets/config.py**, and **datasets/text_clear.py**.
 
 [1] Yang, C.; Harkreader, R.; Zhang, J.; Shin, S.; and Gu, G. 2012. Analyzing spammers’ social networks for fun and profit: a case study of cyber criminal ecosystem on twitter. In Proceedings of the 21st international conference on World Wide Web, 71–80.
 
