@@ -14,4 +14,6 @@ In particular, we provide processing files between dataset versions: **datasets/
 
 # Spammer Detection
 
-**Source Code:** Source code for the user's audio-enabled model. The file of **spammer_detection/run.py**  is the main entry file for the model training and prediction process.
+**Source Code:** Source code for the user audioization model. The file of **spammer_detection/run.py**  is the main entry file for the model training and prediction process.
+
+**Settings and BaseLine Methods:** We provide a series of Python library versions for model replication in the file **Supplement_for_Reproducibility.md**. Similarly, *detailed experimental setups and descriptions* of other baseline methods used in the manuscript are likewise provided.
